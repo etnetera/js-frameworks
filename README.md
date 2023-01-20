@@ -1,5 +1,9 @@
 # České zadání
 
+Nevytvářejte fork tohoto repozitáře, ale místo toho [duplikujte toto úložiště](https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository). Pokud se přihlásíte na GitHub, můžete vytvořit repozitář ze šablony. Pokud se přihlásíte na GitHub, můžete [vytvořit repozitář ze šablony](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+
+![Use this template button](https://docs.github.com/assets/cb-95207/images/help/repository/use-this-template-button.png)
+
 Svět JavaScriptových frameworků je velmi nepřehledný a nestálý. Chceme mít nástroj pro jejich evidenci, ke kterému budeme přistupovat pomocí jednoduchého REST API. Informace by měly obsahovat:
 * jméno frameworku
 * čísla verzí
@@ -39,6 +43,10 @@ Hodnotíme hlavně funkčnost, správnost a udržitelnost kódu. Řešení není
 ---
 
 # English instructions
+
+Do not fork this repository, but instead [duplicate this repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository). If you login to GitHub, you can [create a repository from a template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+
+![Use this template button](https://docs.github.com/assets/cb-95207/images/help/repository/use-this-template-button.png)
 
 The world of JavaScript frameworks is pretty chaotic and unstable place. We want to have a tool for record keeping of JavaScript frameworks. We'd like to use it through a REST API. The information should include:
 * the name of the framework
